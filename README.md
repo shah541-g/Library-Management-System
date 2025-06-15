@@ -110,8 +110,6 @@ The project included comprehensive documentation to support development and main
 - Enhance reporting with data visualization (e.g., charts for borrowing trends).
 
 ## Conclusion
-<<<<<<< HEAD
+
 The Library Management System demonstrates proficiency in C#, .NET Framework, SQL Server, and Windows Forms, showcasing the ability to design and implement a robust, database-driven desktop application. The use of UML diagrams and comprehensive documentation reflects a structured approach to software development, making the system scalable and maintainable.
-=======
-The Library Management System demonstrates proficiency in C#, .NET Framework, SQL Server, and Windows Forms, showcasing the ability to design and implement a robust, database-driven desktop application. The use of UML diagrams and comprehensive documentation reflects a structured approach to software development, making the system scalable and maintainable.
->>>>>>> a21af91 (Project now going to github)
+
